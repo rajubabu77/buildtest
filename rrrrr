@@ -16,3 +16,5 @@ LAST_STABLE_BUILD_NUMBER_QUERY=/lastStableBuild/buildNumber
 CURRENT_BUILD_NUMBER_QUERY=/lastBuild/buildNumber
 CURRENT_BUILD_NUMBER=${CURRENT_BUILD_JSON}
 LAST_STABLE_BUILD_NUMBER=${LAST_STABLE_BUILD_JSON}
+build_id=`curl http://13.233.201.50:8080/job/buildtesting/ws//lastSuccessfulBuild`
+http://13.233.201.50:8080/job/buildtesting/ws/

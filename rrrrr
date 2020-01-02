@@ -5,3 +5,6 @@ nnicionim=$BUILD_NUMBER
 hccdncudi=BUILD_NUMBER
 application.build=${buildNumber}
 uvduvjdj=currentBuild.number
+BuildConfig.VERSION_NAME
+
+

@@ -7,4 +7,7 @@ application.build=${buildNumber}
 uvduvjdj=currentBuild.number
 BuildConfig.VERSION_NAME
 
+$PROJECT_NAME - Build 
+$BUILD_NUMBER 
+$BUILD_STATUS!
 

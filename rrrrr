@@ -1,4 +1,4 @@
-name=rajudhdd:'${BUILD_NUMBER}'
+name=rajudhdd:buildnum
 <buildnumber file="mybuild.number"/>
 namr=mkffmrr:$docker_tag
 njvnufvnn=vfivmvm:docker_tag

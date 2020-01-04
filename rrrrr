@@ -1,5 +1,5 @@
 name=rajudhdd:buildnum
-hddvd=vjndvnid'${BUILD_ID}'
+hddvd=vjndvnid:'s/'${BUILD_ID}'/g'
 <buildnumber file="mybuild.number"/>
 namr=mkffmrr:$docker_tag
 njvnufvnn=vfivmvm:docker_tag

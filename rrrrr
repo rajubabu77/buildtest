@@ -5,7 +5,7 @@ LAST_STABLE_BUILD_NUMBER_QUERY=/lastStableBuild/buildNumber
 
 
 
-hddvd=vjndvnid:'s/'${BUILD_ID}'/g'
+hddvd=vjndvnid:'s/'${{BUILD_ID}}'/g'
 <buildnumber file="mybuild.number"/>
 namr=mkffmrr:$docker_tag
 njvnufvnn=vfivmvm:docker_tag

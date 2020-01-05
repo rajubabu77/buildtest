@@ -5,6 +5,7 @@ Jenkins.instance.getJob('<http://52.66.237.120:8080/job/buildtesting/>').lastBui
 value="${env.BUILD_NUMBER}"
 JOBNAME=${JOB_NAME}
 BUILDNUM=${BUILD_NUMBER}
+<buildnum="mybuild.number"/>
 
 
 hddvd=vjndvnid:'s/'${{BUILD_ID}}'/g'

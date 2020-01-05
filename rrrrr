@@ -1,4 +1,10 @@
 name=rajudhdd:buildnum
+build.buildVariableResolver.resolve("WORKSPACE")
+LAST_STABLE_BUILD_NUMBER_QUERY=/lastStableBuild/buildNumber
+
+
+
+
 hddvd=vjndvnid:'s/'${BUILD_ID}'/g'
 <buildnumber file="mybuild.number"/>
 namr=mkffmrr:$docker_tag

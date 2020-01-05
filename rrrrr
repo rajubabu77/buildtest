@@ -8,7 +8,7 @@ BUILDNUM=${BUILD_NUMBER}
 <buildnum="mybuild.number"/>
 $BUILD_ID
 
-
+'${BUILD_ID}'
 hddvd=vjndvnid:'s/'${{BUILD_ID}}'/g'
 <buildnumber file="mybuild.number"/>
 namr=mkffmrr:$docker_tag

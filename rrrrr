@@ -6,6 +6,7 @@ value="${env.BUILD_NUMBER}"
 JOBNAME=${JOB_NAME}
 BUILDNUM=${BUILD_NUMBER}
 <buildnum="mybuild.number"/>
+$BUILD_ID
 
 
 hddvd=vjndvnid:'s/'${{BUILD_ID}}'/g'

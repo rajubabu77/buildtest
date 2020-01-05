@@ -3,7 +3,8 @@ build.buildVariableResolver.resolve("WORKSPACE")
 LAST_STABLE_BUILD_NUMBER_QUERY=/lastStableBuild/buildNumber
 Jenkins.instance.getJob('<http://52.66.237.120:8080/job/buildtesting/>').lastBuild.workspace;
 value="${env.BUILD_NUMBER}"
-
+JOBNAME=${JOB_NAME}
+BUILDNUM=${BUILD_NUMBER}
 
 
 hddvd=vjndvnid:'s/'${{BUILD_ID}}'/g'
